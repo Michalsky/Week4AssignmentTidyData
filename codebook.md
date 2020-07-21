@@ -1,6 +1,6 @@
 # Codebook for train_and_test_analyzed.csv #
-*subject
-	*subject 1
+* subject
+	* subject 1
 	*subject 2
 	*subject 3
 	*subject 4
