@@ -42,7 +42,7 @@
 	* WALKING_UPSTAIRS
 	* WALKING_DOWNSTAIRS
 
-### Quantitative Varaibles ###
+### Quantitative ###
 
 * Body Acceleration Signal MEAN calculation (Time Domain)-X
 * Body Acceleration Signal MEAN calculation (Time Domain)-Y
