@@ -127,6 +127,6 @@ names(test_and_train) <- gsub(" \\(Frequency Domain\\)std\\(\\)-Z", " STANDARD D
 #Average per subject & activity
 final<-summarize_all(group_by(test_and_train,subject,activity_label), mean)
 #Write file to current working directory
-write.table(final, file='train_and_test_analyzed.csv', sep=",", row.names = FALSE)
+write.table(final, file='processed_device_data.csv', sep=",", row.names = FALSE)
 
 
